@@ -1,0 +1,2 @@
+v14 is the latest version where the sensor is mounted flat in the main body of the watch
+v24 is the version with external sensor, both base and pro versions
